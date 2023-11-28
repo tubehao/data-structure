@@ -1,0 +1,3 @@
+D:\Users\12268\AppData\Local\JetBrains\Toolbox\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\bintree.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\bintree.dir/objects.a @CMakeFiles\bintree.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\bintree.dir/objects.a -Wl,--no-whole-archive -o bintree.exe -Wl,--out-implib,libbintree.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bintree.dir\linkLibs.rsp

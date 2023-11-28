@@ -1,0 +1,3 @@
+D:/clion_cppcode/havmantree/cmake-build-debug/CMakeFiles/havmantree.dir
+D:/clion_cppcode/havmantree/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion_cppcode/havmantree/cmake-build-debug/CMakeFiles/rebuild_cache.dir

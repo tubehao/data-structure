@@ -1,0 +1,3 @@
+D:/clion_cppcode/query/sequence_query/cmake-build-debug/CMakeFiles/sequence_query.dir
+D:/clion_cppcode/query/sequence_query/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion_cppcode/query/sequence_query/cmake-build-debug/CMakeFiles/rebuild_cache.dir

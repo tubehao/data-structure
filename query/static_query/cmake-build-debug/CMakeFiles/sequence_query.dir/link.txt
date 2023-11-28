@@ -1,0 +1,3 @@
+D:\Users\12268\AppData\Local\JetBrains\Toolbox\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\sequence_query.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\sequence_query.dir/objects.a @CMakeFiles\sequence_query.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\sequence_query.dir/objects.a -Wl,--no-whole-archive -o sequence_query.exe -Wl,--out-implib,libsequence_query.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sequence_query.dir\linkLibs.rsp

@@ -1,0 +1,3 @@
+D:\Users\12268\AppData\Local\JetBrains\Toolbox\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\havmantree.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\havmantree.dir/objects.a @CMakeFiles\havmantree.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\havmantree.dir/objects.a -Wl,--no-whole-archive -o havmantree.exe -Wl,--out-implib,libhavmantree.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\havmantree.dir\linkLibs.rsp
