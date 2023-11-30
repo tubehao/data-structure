@@ -16,7 +16,6 @@ private:
     NodeQueue *next;
 public:
     NodeQueue() { next = nullptr; }
-
     NodeQueue(const elemType &x, NodeQueue *p = nullptr) {
         data = x;
         next = p;

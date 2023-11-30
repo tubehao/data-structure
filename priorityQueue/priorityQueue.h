@@ -10,6 +10,12 @@
 #include "iostream"
 using namespace std;
 
+template<class elemType>
+struct  node{
+    int priority;
+    elemType data;
+};
+
 //小顶堆
 template<class elemType>
 class priorityQueue{
@@ -43,8 +49,6 @@ public:
         for (int i=0; i<n; i++)    array[i] = a[i];
         for (int i=(n-1)/2; i>=0; i--)     adjust(i);   //首次建立小顶堆
     };*/
-
-
 /*    void adjust(int hole)
 //反复向下调整hole的位置
     {

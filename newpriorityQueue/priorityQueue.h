@@ -1,8 +1,12 @@
-#ifndef LINKSTACK_H_INCLUDED
-#define LINKSTACK_H_INCLUDED
+//
+// Created by 12268 on 2023/11/30.
+//
 
-class outOfBound{};
-class illegalSize{};
+#ifndef NEWPRIORITYQUEUE_PRIORITYQUEUE_H
+#define NEWPRIORITYQUEUE_PRIORITYQUEUE_H
+
+
+
 
 template<class elemType>
 class linkStack;
@@ -57,4 +61,28 @@ public:
 };
 
 
-#endif
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class priorityQueue {
+
+};
+
+
+#endif //NEWPRIORITYQUEUE_PRIORITYQUEUE_H
