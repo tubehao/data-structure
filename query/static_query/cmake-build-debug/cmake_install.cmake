@@ -1,4 +1,4 @@
-# Install script for directory: D:/clion_cppcode/query/sequence_query
+# Install script for directory: D:/clion_cppcode/query/static_query
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/clion_cppcode/query/sequence_query/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/clion_cppcode/query/static_query/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

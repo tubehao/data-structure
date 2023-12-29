@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/clion_cppcode/query/sequence_query/sequence_query.cpp" "CMakeFiles/sequence_query.dir/sequence_query.cpp.obj" "gcc" "CMakeFiles/sequence_query.dir/sequence_query.cpp.obj.d"
+  "D:/clion_cppcode/query/static_query/sequence_query.cpp" "CMakeFiles/sequence_query.dir/sequence_query.cpp.obj" "gcc" "CMakeFiles/sequence_query.dir/sequence_query.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

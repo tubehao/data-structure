@@ -56,10 +56,10 @@ RM = D:\Users\12268\AppData\Local\JetBrains\Toolbox\CLion\bin\cmake\win\x64\bin\
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\clion_cppcode\query\sequence_query
+CMAKE_SOURCE_DIR = D:\clion_cppcode\query\static_query
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\clion_cppcode\query\sequence_query\cmake-build-debug
+CMAKE_BINARY_DIR = D:\clion_cppcode\query\static_query\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\clion_cppcode\query\sequence_query\cmake-build-debug\CMakeFiles D:\clion_cppcode\query\sequence_query\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\clion_cppcode\query\static_query\cmake-build-debug\CMakeFiles D:\clion_cppcode\query\static_query\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\clion_cppcode\query\sequence_query\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\clion_cppcode\query\static_query\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target

@@ -108,7 +108,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "D:/Users/12268/AppData/Local/JetBrains/Toolbox/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake"
   "D:/Users/12268/AppData/Local/JetBrains/Toolbox/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake"
   "D:/Users/12268/AppData/Local/JetBrains/Toolbox/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/ProcessorCount.cmake"
-  "D:/clion_cppcode/query/sequence_query/CMakeLists.txt"
+  "D:/clion_cppcode/query/static_query/CMakeLists.txt"
   "CMakeFiles/3.26.4/CMakeCCompiler.cmake"
   "CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.26.4/CMakeRCCompiler.cmake"
